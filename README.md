@@ -11,7 +11,7 @@ becomes v0.2.11 and versions >=v1.0.0 should be removed by 2019-12-31.
 
 ## Related
 
-* https://github.com/tobiipro/support-firecloud/tree/master/bin
+* https://github.com/rokmoln/support-firecloud/tree/master/bin
 * https://github.com/jorgebastida/awslogs
 * https://github.com/trek10inc/lambda-error-hound
 
@@ -23,5 +23,5 @@ More on https://github.com/donnemartin/awesome-aws .
 [Apache 2.0](LICENSE)
 
 
-  [1]: https://travis-ci.com/tobiipro/aws-util-firecloud
-  [2]: https://travis-ci.com/tobiipro/aws-util-firecloud.svg?branch=master
+  [1]: https://travis-ci.com/rokmoln/aws-util-firecloud
+  [2]: https://travis-ci.com/rokmoln/aws-util-firecloud.svg?branch=master
