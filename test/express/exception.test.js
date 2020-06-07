@@ -89,6 +89,7 @@ describe('express', function() {
             name: 'test'
           }
         });
+        // @ts-ignore
         bHandler(e, ctx, _.noop);
 
         await spyProcessExitD.promise;
