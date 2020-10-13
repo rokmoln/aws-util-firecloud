@@ -5,6 +5,7 @@ undefine INSTALL_SUPPORT_FIRECLOUD
 endif
 endif
 
+include support-firecloud/repo/mk/generic.common.mk
 include support-firecloud/repo/mk/node.common.mk
 include support-firecloud/repo/mk/js.build.dts.mk
 include support-firecloud/repo/mk/js.check.eslint.mk
