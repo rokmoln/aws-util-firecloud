@@ -2,7 +2,7 @@ import aws from 'aws-sdk';
 import logger from '../logger';
 
 // TODO missing definition in aws-sdk-js
-declare module 'aws-sdk/lib/config' {
+declare module 'aws-sdk/lib/config-base' {
   interface Logger {
     isTTY?: boolean;
   }
