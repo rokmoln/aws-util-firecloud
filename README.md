@@ -23,5 +23,5 @@ More on https://github.com/donnemartin/awesome-aws .
 [Apache 2.0](LICENSE)
 
 
-  [1]: https://travis-ci.com/rokmoln/aws-util-firecloud
-  [2]: https://travis-ci.com/rokmoln/aws-util-firecloud.svg?branch=master
+  [1]: https://github.com/rokmoln/aws-util-firecloud/actions?query=workflow%3ACI+branch%3Amaster
+  [2]: https://github.com/rokmoln/aws-util-firecloud/workflows/CI/badge.svg?branch=master

@@ -5,13 +5,13 @@ undefine INSTALL_SUPPORT_FIRECLOUD
 endif
 endif
 
-include support-firecloud/repo/mk/generic.common.mk
-include support-firecloud/repo/mk/node.common.mk
-include support-firecloud/repo/mk/js.build.dts.mk
-include support-firecloud/repo/mk/js.check.eslint.mk
-include support-firecloud/repo/mk/js.check.tsc.mk
-include support-firecloud/repo/mk/js.test.jest.mk
-include support-firecloud/repo/mk/core.misc.release.npg.mk
+include support-firecloud/build.mk/generic.common.mk
+include support-firecloud/build.mk/node.common.mk
+include support-firecloud/build.mk/js.build.dts.mk
+include support-firecloud/build.mk/js.check.eslint.mk
+include support-firecloud/build.mk/js.check.tsc.mk
+include support-firecloud/build.mk/js.test.jest.mk
+include support-firecloud/build.mk/core.misc.release.npg.mk
 
 # ------------------------------------------------------------------------------
 
