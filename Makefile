@@ -15,4 +15,7 @@ include support-firecloud/build.mk/core.misc.release.npg.mk
 
 # ------------------------------------------------------------------------------
 
+SF_DEPS_TARGETS += \
+	.github/workflows/main.yml \
+
 # ------------------------------------------------------------------------------
